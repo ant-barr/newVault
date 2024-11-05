@@ -6,7 +6,6 @@
       {
         "id": "1763348bb56f1a64",
         "type": "tabs",
-        "dimension": 86.3574351978172,
         "children": [
           {
             "id": "d9deabd83f7d3d9d",
@@ -17,7 +16,9 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 6 review.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 6 review"
             }
           },
           {
@@ -29,7 +30,9 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 7 Review Econ.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 7 Review Econ"
             }
           },
           {
@@ -41,7 +44,9 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 8 Review.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 8 Review"
             }
           },
           {
@@ -53,7 +58,9 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 9.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "chapter 9"
             }
           },
           {
@@ -65,28 +72,25 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "chapter 10 review"
+            }
+          },
+          {
+            "id": "d6ee2e62a265b366",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "ceccfbcfec95e31d",
-        "type": "tabs",
-        "dimension": 13.642564802182811,
-        "children": [
-          {
-            "id": "738c167663b8e2d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,7 +127,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -129,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -160,7 +170,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for chapter 10 review"
             }
           },
           {
@@ -172,7 +184,9 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from chapter 10 review"
             }
           },
           {
@@ -183,7 +197,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -193,7 +209,9 @@
               "type": "outline",
               "state": {
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of chapter 10 review"
             }
           },
           {
@@ -201,7 +219,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -224,14 +244,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31f001853838237",
+  "active": "384a67e6db6068f9",
   "lastOpenFiles": [
-    "repo",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf",
+    "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 9.md",
+    "repo",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 8 Review.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 7 Review Econ.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 6 review.md",
-    "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 24 24 econ.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 22 24 Econ lecture notes.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 24 24 Econ - chapter 9.md",
@@ -241,7 +262,6 @@
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 2/CHAPTER 2 NOTES - ECON.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/Chapter 7",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 6",
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf",
     "UTRGV FALL SEMESTER 2024/readings and pdfs/wealth of nations adam smith 1.pdf",
     "UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 1 part 2.md",
     "UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 4.md",
