@@ -6,7 +6,6 @@
       {
         "id": "9b0b8b7c3bc691c9",
         "type": "tabs",
-        "dimension": 37.92633015006821,
         "children": [
           {
             "id": "aba0e7d5cd5453e5",
@@ -14,28 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/ch 11 Econ notes.md",
+                "file": "UTRGV FALL SEMESTER 2024/this is another test note.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "this is another test note"
             }
-          }
-        ]
-      },
-      {
-        "id": "b042573ceb601c13",
-        "type": "tabs",
-        "dimension": 62.0736698499318,
-        "children": [
+          },
           {
-            "id": "2f6383a9980a7e92",
+            "id": "1b1e4988583b0de5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Goals/long term/Job Porspects/Quant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quant"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -70,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -78,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -101,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UTRGV FALL SEMESTER 2024/this is another test note.md",
+                "file": "Personal/Goals/long term/Job Porspects/Quant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Quant"
             }
           },
           {
@@ -118,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UTRGV FALL SEMESTER 2024/this is another test note.md",
+                "file": "Personal/Goals/long term/Job Porspects/Quant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quant"
             }
           },
           {
@@ -132,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UTRGV FALL SEMESTER 2024/this is another test note.md"
-              }
+                "file": "Personal/Goals/long term/Job Porspects/Quant.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quant"
             }
           },
           {
@@ -150,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -158,7 +175,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -176,13 +195,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f14bf78f485cbe3e",
+  "active": "1b1e4988583b0de5",
   "lastOpenFiles": [
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf",
+    "Personal/Goals/long term/Job Porspects",
+    "CS Stuff/Game Dev",
+    "UTRGV FALL SEMESTER 2024/test note.md",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/t1_history_cs - Tagged.pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/The School of Salamanca Book.pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/Chapter 01 lecture PDF(2).pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1).pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1) 1.pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/Definition of Terms, Week I, Part I.pdf",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/MUSI 1306.08 Syllabus(3).pdf",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/ch 11 Econ notes.md",
+    "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
     "UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Review Music 11 12 24.md",
     "UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes 10 15 24.md",
@@ -201,8 +231,6 @@
     "Untitled.canvas",
     "UTRGV FALL SEMESTER 2024/PHIL 1300/Phil 11-6-24.md",
     "UTRGV FALL SEMESTER 2024/this is another test note.md",
-    "Untitled",
-    "UTRGV FALL SEMESTER 2024/test note.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 9.md",
     "repo",
     "UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 8 Review.md",
@@ -211,13 +239,6 @@
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 24 24 econ.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 22 24 Econ lecture notes.md",
     "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8/10 24 24 Econ - chapter 9.md",
-    "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/Chapter 7",
-    "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 6",
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/wealth of nations adam smith 1.pdf",
-    "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/chapter 8",
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/Definition of Terms, Week I, Part I.pdf",
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1) 1.pdf",
-    "UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1).pdf",
     "UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png"
   ]
 }
