@@ -17,9 +17,7 @@
                 "file": "UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/ch 11 Econ notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ch 11 Econ notes"
+              }
             }
           }
         ]
@@ -27,18 +25,14 @@
       {
         "id": "b042573ceb601c13",
         "type": "tabs",
-        "dimension": 62.07366984993179,
+        "dimension": 62.0736698499318,
         "children": [
           {
             "id": "2f6383a9980a7e92",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "UTRGV FALL SEMESTER 2024/readings and pdfs/Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Roger A. Arnold - Economics (2013, Cengage Learning) - libgen.li"
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,9 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -78,9 +70,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -88,9 +78,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -121,9 +109,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for this is another test note"
+              }
             }
           },
           {
@@ -135,9 +121,7 @@
                 "file": "UTRGV FALL SEMESTER 2024/this is another test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from this is another test note"
+              }
             }
           },
           {
@@ -148,9 +132,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -160,9 +142,7 @@
               "type": "outline",
               "state": {
                 "file": "UTRGV FALL SEMESTER 2024/this is another test note.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of this is another test note"
+              }
             }
           },
           {
@@ -170,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "state": {}
             }
           },
           {
@@ -180,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           }
         ],
@@ -200,8 +176,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "f14bf78f485cbe3e",
