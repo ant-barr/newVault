@@ -253,3 +253,5 @@ What is the difference between short-run equilibrium and long run equilibrium
 
 ---
 Aggregate demand
+
+[[ECON 2301 COURSE OVERVIEW]]

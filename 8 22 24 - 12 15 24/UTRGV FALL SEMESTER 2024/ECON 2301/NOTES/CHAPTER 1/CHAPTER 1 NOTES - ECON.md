@@ -125,9 +125,7 @@ Part 1
 		- How do changes in government spending and taxes affect the economy?
 
 
-#Abstract #Bad #GOOD #Ceteris-Paribus #Disutility #Efficiency #Exchange #Incentive #Marginal-cost #Marginal-Benefit #Normative-economics #Positive-Economics #Macroeconomics #Microeconomics #Rationing-Device #Resources #Scarcity 
 
 
 [[ECON 2301 COURSE OVERVIEW]]
-[[CHAPTER 1 NOTES - ECON]]
-[[CHAPTER 1 SUMMARY - ECON]]
+

@@ -277,3 +277,5 @@ Fiscal Policy and Expectations
 - Setting 1 income tax rates are lowered in year 1 with no further cuts expected in future years
 - Setting 2, income tax rates are lowered in year 1 with further cuts expected in future years.
 	Suppose tax cuts are implemented in setting 1. and individuals don't respond by working more and producing more. 
+
+[[ECON 2301 COURSE OVERVIEW]]

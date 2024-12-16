@@ -63,3 +63,5 @@ What happens in the economy if total production is greater than total expendatur
 	busniess inventories rise above optimal levels. in reaction firms cut bakc on their production of goods and services. leads to a decline in real gdp which stops falling when tp eqauls te
 what happens in the economy if total expenditures are greater than total production 
 	when TE is greater than TP households and businesses want to buy more than firms are producing and offering. business inventories fall below optimal levels, in reaction, firms increase their production of goods and services. this leads to a rise in real gdp, which stops rising when TP equal TE
+
+[[ECON 2301 COURSE OVERVIEW]]

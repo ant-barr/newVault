@@ -61,4 +61,10 @@ The branch of economics that deals with human behavior and choices as they relat
 #Macroeconomics 
 The Branch of economics that deals with human behavior and choices as they relate to highly aggregated markets (entire economies)
 
-[[CHAPTER 1 NOTES - ECON]]
+
+[[ECON 2301 COURSE OVERVIEW]]
+
+
+
+
+

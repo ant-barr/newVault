@@ -251,3 +251,5 @@ Self Test
 14. **If GDP is $400 billion and the country****’****s population is 100 million, does it follow that each individual in the country has $40,000 worth of goods and services?**
 	1. NO, nothing indicates that per capita gdp is distributed evenly among citizens, some people will have more, and some people will have less, it is an average.
 
+
+[[ECON 2301 COURSE OVERVIEW]]

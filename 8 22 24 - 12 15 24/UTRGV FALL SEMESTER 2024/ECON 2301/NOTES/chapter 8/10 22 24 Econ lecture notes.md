@@ -63,3 +63,4 @@ Factors that change aggregate demand
 	An increase in business taxes lowers expected profitability. with less profit expected, businesses invest less. as investment spending declines so does aggregate demand.
 	a decrease in business taxes on the other hand raises expected probability and investments spending this increases aggregate demand.
 
+[[ECON 2301 COURSE OVERVIEW]]

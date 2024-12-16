@@ -68,3 +68,5 @@ what happens in an inflationary gap
 	enters long run equilibrum
 if the economy is self-regulating, how do changes in aggregate demadn affect the economy in the long run
 	any chagnes in aggregate demand will affect only the price level, changes in AD will have no lnog run effect on real gdp.
+
+[[ECON 2301 COURSE OVERVIEW]]

@@ -49,5 +49,3 @@ Economic Categories
 - Microeconomics deals with human behavior and choices as they relate to relatively small unites while Macroeconomics deals with human behavior and choices as they relate to an entire economy.
 
 [[CHAPTER 1 NOTES - ECON]]
-[[CHAPTER 1 VOCABULARY - ECON]]
-[[ECON 2301 COURSE OVERVIEW]]
