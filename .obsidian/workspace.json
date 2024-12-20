@@ -20,15 +20,51 @@
               "icon": "lucide-file",
               "title": "CHAPTER 1 VOCABULARY - ECON"
             }
-          }
-        ]
-      },
-      {
-        "id": "f61b487f36e08da0",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b43174bf4e8f31ae",
+            "id": "13fc3816e06649ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Data Science/Python/Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variables"
+            }
+          },
+          {
+            "id": "5f505e1f314e0db5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Data Science/Python/Python overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python overview"
+            }
+          },
+          {
+            "id": "95fc248342c3f469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Data Science/Python for Data Science.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python for Data Science"
+            }
+          },
+          {
+            "id": "45bbd16af341e162",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -36,23 +72,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "a499729bdcc5bf80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Books/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,11 +237,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f14bf78f485cbe3e",
+  "active": "45bbd16af341e162",
   "lastOpenFiles": [
-    "Personal/Books/Untitled.md",
+    "Personal/Data Science/Python for Data Science.md",
+    "Personal/Data Science/What is Data science.md",
+    "Personal/Data Science/Python/Python overview.md",
+    "Personal/Data Science/Python/Variables.md",
     "Untitled",
+    "Personal/Data Science/Python",
+    "Personal/Data Science",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 1/CHAPTER 1 VOCABULARY - ECON.md",
+    "Personal/Books/Untitled.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 2/CHAPTER 2 NOTES - ECON.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 1/CHAPTER 1 SUMMARY - ECON.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/NOTES/CHAPTER 1/CHAPTER 1 NOTES - ECON.md",
@@ -243,16 +271,10 @@
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/The School of Salamanca Book.pdf",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Chapter 01 lecture PDF(2).pdf",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1).pdf",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/College Algebra-Fall 2024-MATH1314-12P Syllabus(1) 1.pdf",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Definition of Terms, Week I, Part I.pdf",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Review Music 11 12 24.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes 10 15 24.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/test review.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 1.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 1 part 2.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 2.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 4.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 4 part 2.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png"
