@@ -145,6 +145,6 @@ Texas State Board of Education
 
 Texas Secretary of State
 - Not elected but appointed by the governor and confirmed by the state senate
-- variety of duties including adminstration of elections within texas
-- publishing the texas register and advisng the governor on board matters
+- variety of duties including administration of elections within Texas
+- publishing the texas register and advising the governor on board matters
 - Secretary of state also presides of the Texas house of representatives at the beginning of each legislative session
