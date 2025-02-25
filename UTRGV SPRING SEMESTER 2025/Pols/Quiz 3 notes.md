@@ -89,3 +89,62 @@ The Comptrollers BRE (biennial revenue estimate) is the initial estimate of what
 while the legislature has the sole power to make laws in Texas, executive branch agencies have significant latitude to interpret state statutes through agency rulemaking. Legislators, aware and somewhat wary of this, require a special statement attached to the official analysis of every bill considered on the floor of the house or senate disclosing whether the bill delegates any rulemaking authority to any state official or agency.
 
 The Texas attorney general also brings some interpretive power to the equation. with the power to issue a formal attorney general opinion this official can sometimes make public policy decisions separately from the legislature, and without the judicial branch. an attorney generals opinion in Texas has the force of law until a court rules otherwise, or the legislature changes the law on which the opinions based.
+
+---
+
+The Informal Powers of the Executive Branch
+
+In addition to the formal powers of the governor and other executive branch officials, a smart governor can accomplish a lot using informal powers. Governor George W. Bush was legendary for his ability to forge genuine friendships with other state officials - notably House Speaker Pete Laney and Lieutenant Governor Bob Bullock. The three had breakfast at the Governors Mansion weekly during legislative sessions. When he announced his candidacy for the Republican nomination for President in 1999, Speaker Laney, a Democrat, introduced him. Friendly late night meetings over beer or two helped governor bush and some of his staunchest political opponents find common ground on a variety of policy issues. 
+
+The Texas governor has the highest profile role of any state official and can use that to his advantage. An endorsement form the governor can mean a lot in a race for the state house or senate, and a grateful legislator should be eager to return the favor. conversely, Governor Greg abbot actively worked against the reelection of two legislators from his own party in 2018 helping to defeat one. 
+
+The governors appointment power to appoint members to boards, commissions, councils, and committees can provide the governor with significant informal power over policy in many key areas. The executive branch of the Texas government is made up of over 400 state boards, commissions, and agencies. finally, the governors unilateral post session veto power creates a lot of informal leverage during during the legislative session. A legislative bill author asked by the governor to support a change to his bill - even a drastic one - has little alternative, knowing the bill can be vetoed with no opportunity for an override vote.
+
+---
+Texas' Plural Executive
+
+Article 4 of the Texas Constitution describes the executive department of Texas. Texas utilizes a plural executive which means the power of the Governor is limited and distributed amongst other government officials. In other words, there is not one government official in Texas that is solely responsible for the Texas Executive Branch.
+
+The state bureaucracy in Texas has numerous state boards, commissions, councils and committees. additionally, several major agencies within the plural executive have administrative and advisory functions
+
+below are some of the members of the Texas Plural Executive and their roles
+
+The lieutenant governor is technically a member of the executive branch but with duties that are mostly legislative. while not a member of the senate, he serves as the states senates presiding officer - not in a ceremonial role such as that served by the united states vice president of the US senate, but as the states senates day to day leader. He is also first in line of succession for Governor, member of the Legislative Redistricting Board and Chair of the Legislative Budget Board. he is elected statewide and serves a four year term. The current lieutenant governor is Dan Patrick a former state and former television sports anchor form Houston.
+
+The Texas Attorney General serves at the official lawyer for the State of Texas representing the state on civil matters and is responsible for interpreting the application of statutory law in absence of an applicable court ruling. His office has additional duties relating to child support enforcement and consumer protection. Elected to a four year term statewide the current attorney general is ken Paxton a former state senator from the Dallas area.
+
+The Commissioner of the General Land Office is the states real estate asset manager - an unusual position for voters to choose in a statewide election until you remember the Texas as condition of admission to the united states in 1845 maintained state ownership over vast amounts of public land that would have become federal in most other states. The leasing of public land for everything form oil exploration to grazing has been an important source of funding for state universities and public schools. The land commissioner is also responsible Texas 367 miles of gulf coast beach and has played an increasingly central role in managing disaster relief funds since hurricane Harvey in 2017. Elected to a four year term the current commissioner is George P Bush nephew of former president George H.W. Bush
+
+Comptroller of Public Accounts
+- Chief financial officer
+- certifies the states biennial budget
+- states tax collector and banker
+- current comptroller: Glenn Hagar
+
+Texas Agriculture
+- commissioner is elected to both promote and regulate Texas agriculture
+- Administers the Texas Agriculture Department
+- Checks gas pumps periodically to audit the amount they receive 
+- current commissioner: Sid Miller
+
+Texas Railroad Commission
+- 3 commissioners
+- six terms staggered
+- regulate and create rail commerce
+- Regulated the Texas oil industry during the great depression
+- set the global price of oil for many years
+- OPEC used the Texas railroad commission as their model for creating a worldwide oil cartel in the 1960s
+- Commission still has some authority over gas utilities, pipeline safety, liquified natural gas production.
+
+Texas State Board of Education
+- largest elected body in the states executive branch with 15 members from single member districts
+- Chaired by Donna Bahorich 
+- The board is charged with setting curriculum standards, reviewing textbooks, establishing graduation requirements, overseeing the Texas permanent school fund and approving new charter schools
+- The board words with Texas education agency witch is administered by commissioner of education appointed by the governor not the board
+- the current commissioner of education is Mike Morath a software developer before his appointment by Greg abbot in 2016
+
+Texas Secretary of State
+- Not elected but appointed by the governor and confirmed by the state senate
+- variety of duties including adminstration of elections within texas
+- publishing the texas register and advisng the governor on board matters
+- Secretary of state also presides of the Texas house of representatives at the beginning of each legislative session
