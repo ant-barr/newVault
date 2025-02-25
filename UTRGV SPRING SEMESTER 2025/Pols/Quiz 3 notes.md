@@ -148,3 +148,4 @@ Texas Secretary of State
 - variety of duties including administration of elections within Texas
 - publishing the texas register and advising the governor on board matters
 - Secretary of state also presides of the Texas house of representatives at the beginning of each legislative session
+llllll
