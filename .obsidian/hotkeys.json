@@ -1,0 +1,11 @@
+{
+  "obsidian-git:clone-repo": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "P"
+    }
+  ]
+}
