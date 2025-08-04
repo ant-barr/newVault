@@ -77,12 +77,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/test note.md",
+=======
+                "file": "this is a test note.md",
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "test note"
+=======
+              "title": "this is a test note"
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
             }
           }
         ],
@@ -217,8 +225,13 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
+<<<<<<< HEAD
               "icon": "lucide-file",
               "title": "Plugin no longer active"
+=======
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
             }
           },
           {
@@ -250,6 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "15c18e0a026af26a",
   "lastOpenFiles": [
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/this is another test note.md",
@@ -258,6 +272,14 @@
     "Personal/Data Science/Python/Python overview.md",
     "UTRGV SPRING SEMESTER 2025/HIST/2 25 25.md",
     "Untitled",
+=======
+  "active": "f14bf78f485cbe3e",
+  "lastOpenFiles": [
+    "Personal/Data Science/Python/Python overview.md",
+    "this is a test note.md",
+    "Untitled",
+    "Personal/Data Science/Python/Introduction to pandas and DataFrames.md",
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
     "Personal/Books/Untitled.md",
     "UTRGV SPRING SEMESTER 2025/UTRGV Spring Semester.md",
     "UTRGV SPRING SEMESTER 2025/Pols/Quiz 3 notes.md",
@@ -274,12 +296,20 @@
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 5.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Review Music 11 12 24.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/UTRGV FALL SEMESTER 2024 FLEETING.md",
+<<<<<<< HEAD
+=======
+    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/this is another test note.md",
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/test note.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/CSCI 1101 COURSE OVERVIEW.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/ECON 2301 COURSE OVERVIEW.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/MATH 1314 COURSE OVERVIEW.md",
     "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/wealth of nations adam smith.pdf",
     "Personal/Data Science/Python/Variables.md",
+<<<<<<< HEAD
+=======
+    "Personal/Data Science/What is Data science.md",
+>>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
     "UTRGV SPRING SEMESTER 2025/Pols/lecture notes",
     "UTRGV SPRING SEMESTER 2025/HIST",
     "UTRGV SPRING SEMESTER 2025/Pols",
