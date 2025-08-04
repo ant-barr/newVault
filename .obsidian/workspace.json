@@ -1,114 +1,41 @@
 {
   "main": {
-    "id": "e701743fe1fd9a89",
+    "id": "f69a2c39e423a8ea",
     "type": "split",
     "children": [
       {
-        "id": "6e4498f8c7cd3343",
+        "id": "27dfb0bb47b10097",
         "type": "tabs",
         "children": [
           {
-            "id": "45bbd16af341e162",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "731c02f0a27dd0e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "d6c560b779ffb7f5",
+            "id": "10a40a4c2c5b966d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Data Science/Python/Python overview.md",
+                "file": "another test from mac.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python overview"
-            }
-          },
-          {
-            "id": "249b1e33d422e2d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Data Science/Python/Introduction to pandas and DataFrames.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction to pandas and DataFrames"
-            }
-          },
-          {
-            "id": "d11505ffc1fb7e94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Data Science/Python/Python overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python overview"
-            }
-          },
-          {
-            "id": "15c18e0a026af26a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/test note.md",
-=======
-                "file": "this is a test note.md",
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "test note"
-=======
-              "title": "this is a test note"
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
+              "title": "another test from mac"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b3129770014a2950",
+    "id": "dcc4da711f3bffae",
     "type": "split",
     "children": [
       {
-        "id": "fc3b95e8f1185bda",
+        "id": "f0b75b6147c8178c",
         "type": "tabs",
         "children": [
           {
-            "id": "c31f001853838237",
+            "id": "952cb6f1262afc4a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -121,7 +48,7 @@
             }
           },
           {
-            "id": "bb1afbce67f74a02",
+            "id": "fe46819b8b0439c6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -138,7 +65,7 @@
             }
           },
           {
-            "id": "66f2d6d063fef805",
+            "id": "b921f8e99ceb20c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -151,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "c19c79cd19b7982e",
+    "id": "45581f52677a9ec3",
     "type": "split",
     "children": [
       {
-        "id": "b055a5be92587803",
+        "id": "457d8183bafdf770",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1723924ab1c855",
+            "id": "1612983acf93799b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Goals/long term/Job Porspects/Quant.md",
+                "file": "another test from mac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,65 +104,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Quant"
+              "title": "Backlinks for another test from mac"
             }
           },
           {
-            "id": "6dc448023852a5b0",
+            "id": "c7150afb6b301b28",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Goals/long term/Job Porspects/Quant.md",
+                "file": "another test from mac.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Quant"
+              "title": "Outgoing links from another test from mac"
             }
           },
           {
-            "id": "2f52915da6522659",
+            "id": "a2f5c00a2586396a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "4270eb6f0de18bd4",
+            "id": "8c0f916c99aa9abb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Goals/long term/Job Porspects/Quant.md"
+                "file": "another test from mac.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quant"
+              "title": "Outline of another test from mac"
             }
           },
           {
-            "id": "1e5bd47ea92a2c59",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-<<<<<<< HEAD
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-=======
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
-            }
-          },
-          {
-            "id": "f14bf78f485cbe3e",
+            "id": "32a1c580c75ab643",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -245,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,63 +180,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< HEAD
-  "active": "15c18e0a026af26a",
+  "active": "10a40a4c2c5b966d",
   "lastOpenFiles": [
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/this is another test note.md",
-    "this is a test note.md",
-    "Personal/Data Science/Python/Introduction to pandas and DataFrames.md",
-    "Personal/Data Science/Python/Python overview.md",
-    "UTRGV SPRING SEMESTER 2025/HIST/2 25 25.md",
-    "Untitled",
-=======
-  "active": "f14bf78f485cbe3e",
-  "lastOpenFiles": [
-    "Personal/Data Science/Python/Python overview.md",
-    "this is a test note.md",
-    "Untitled",
-    "Personal/Data Science/Python/Introduction to pandas and DataFrames.md",
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
-    "Personal/Books/Untitled.md",
-    "UTRGV SPRING SEMESTER 2025/UTRGV Spring Semester.md",
-    "UTRGV SPRING SEMESTER 2025/Pols/Quiz 3 notes.md",
-    "UTRGV SPRING SEMESTER 2025/Pols/2 3 2025.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/MUSIC 1306 COURSE OVERVIEW.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/PHIL 1300 COURSE OVERVIEW.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/CSCI 1101/notes/CSCI 1101 notes 8 27 2024.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/CSCI 1101/notes/CSCI 11 12 24.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/Chapter 8 Review.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/ECON 2301/TEST STUDY GUIDE/chapter 10 review.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 2 part 2.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 4.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Notes week 4 part 2.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/notes week 5.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/MUSIC 1306 Lecture notes/notes/Review Music 11 12 24.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/UTRGV FALL SEMESTER 2024 FLEETING.md",
-<<<<<<< HEAD
-=======
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/this is another test note.md",
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/test note.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/CSCI 1101 COURSE OVERVIEW.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/ECON 2301 COURSE OVERVIEW.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/COURSE OVERVIEWS/MATH 1314 COURSE OVERVIEW.md",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/wealth of nations adam smith.pdf",
-    "Personal/Data Science/Python/Variables.md",
-<<<<<<< HEAD
-=======
-    "Personal/Data Science/What is Data science.md",
->>>>>>> 2cdf1d9df9421c8d5ac540ed04aca0320127302e
-    "UTRGV SPRING SEMESTER 2025/Pols/lecture notes",
-    "UTRGV SPRING SEMESTER 2025/HIST",
-    "UTRGV SPRING SEMESTER 2025/Pols",
-    "UTRGV SPRING SEMESTER 2025/CSCI 1470",
-    "UTRGV SPRING SEMESTER 2025",
-    "Personal/Data Science/Python",
-    "Personal/Data Science",
-    "8 22 24 - 12 15 24",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/readings and pdfs/Screenshot 2024-09-10 at 3.06.09 PM.png"
+    "8 22 24 - 12 15 24/UTRGV FALL SEMESTER 2024/this is another test note.md"
   ]
 }
